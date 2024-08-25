@@ -1,7 +1,11 @@
+以下にCaboChaのホームページのリンクを追加した`README.md`の例を示します。
 
+```markdown
 # CaboCha4J
 
 CaboCha4Jは、CaboCha日本語係り受け解析器のJavaラッパーです。Javaアプリケーション内からCaboChaを実行し、解析結果を構造化されたJavaオブジェクト（`Chunk`と`Token`）として扱うことができます。柔軟な入力設定に対応し、固有表現認識を含む包括的な係り受け解析結果を出力します。
+
+[CaboChaの詳細はこちら](https://taku910.github.io/cabocha/)
 
 ## 特徴
 
